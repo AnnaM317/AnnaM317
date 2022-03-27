@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anna</h1>
 <h3 align="center">A passionate junior frontend/fullstack developer.</h3>
 
+- 👀 My latest project - a marketplace for booking stays based on Airbnb (Vue.js, Node.js, MongoDB). [rentme](https://rent-me-bnb.herokuapp.com/)
+
 - ⚡ Fun fact **I'm a proud owner of 4 cats and an overweight rabbit**
 
 <h3 align="left">Connect with me:</h3>
