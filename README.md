@@ -3,7 +3,7 @@
 
 - 👀 My latest project - a marketplace for booking stays based on Airbnb (Vue.js, Node.js, MongoDB). [rentme](https://rent-me-bnb.herokuapp.com/)
 
-- ⚡ Fun fact **I'm a proud owner of 4 cats and an overweight rabbit**
+- ⚡ Fun fact **I'm a proud owner of four cats and an overweight rabbit**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
