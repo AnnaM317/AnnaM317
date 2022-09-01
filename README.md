@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anna</h1>
-<h3 align="center">A passionate junior frontend/fullstack developer.</h3>
+<h3 align="center">A Full-Stack / Frontend Web Developer with knowledge and experience in writing single-page applications and using the latest WEB technologies, including Vue.js, React, Angular and Node.js.</h3>
 
 - 👀 My latest project - a marketplace for booking stays based on Airbnb (Vue.js, Node.js, MongoDB). [rentme](https://rent-me-bnb.herokuapp.com/)
 
